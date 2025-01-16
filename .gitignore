@@ -1,0 +1,25 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment and dependencies
+env/
+venv/
+*.env
+*.egg-info/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
