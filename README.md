@@ -67,3 +67,4 @@ Ensure you have the following installed:
 
 🎥 App Preview
 Take a look at how the app works:
+![Screenshot 2025-01-16 181453](https://github.com/user-attachments/assets/88cf6960-cbe5-42f3-b702-b5e8c4228b14)
